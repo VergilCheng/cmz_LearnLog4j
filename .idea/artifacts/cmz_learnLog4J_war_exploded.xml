@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cmz_learnLog4J:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cmz_learnLog4J_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cmz_learnLog4J/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cmz_learnLog4J" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
